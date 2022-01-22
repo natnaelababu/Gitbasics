@@ -1,1 +1,10 @@
 git commands
+git init
+git add <.> <*.ectension><file>
+git config --global user.name="
+git config --global user.email="
+git commit -m"message"
+git remote add origin<origin>
+git push -u origin master
+git status
+git log
